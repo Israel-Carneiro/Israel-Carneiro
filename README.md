@@ -14,7 +14,7 @@
 <link href="style.css" rel="stylesheet">
 <div align="center">
   <a href="https://github.com/Israel-Carneiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27"/>
 </div>
 
