@@ -3,7 +3,7 @@
 ***
 
 <div align="center">
-  <img alt="Israel-pic" height="250" style="border-radius: 70px;" src="https://media-exp1.licdn.com/dms/image/D4D03AQEZr3VmJviEXw/profile-displayphoto-shrink_800_800/0/1664897113777?e=1671062400&v=beta&t=EP_SiFf4yKuOL7LJIthUXHoyAxeSIV9EQ4r3KVvcrfc">
+  <img alt="Israel-pic" height="250" src="https://scontent.fvix3-1.fna.fbcdn.net/v/t39.30808-6/313024389_5289972357777821_2723149189993986416_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xWHf3gBtm38AX8JJ4B8&tn=bbxNE3L-V3xOHZIw&_nc_ht=scontent.fvix3-1.fna&oh=00_AT8eQ-HxzdcbQnsVP0PW344QXLinzH2Hkiwo_Fv0ArKOpg&oe=635CF7FD">
 </div>
 
 <div align="center"> 
