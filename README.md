@@ -1,14 +1,17 @@
-### <p align="center">Olá Mundo, Obrigado por me deixar entrar na sua tela 👋
-
-***
+<div>
+  <h1 align="center">
+    Olá Mundo, obrigado por checar meu perfil!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h1>
+</div>
 
 <div align="center">
   <img alt="Israel-pic" height="250" src="https://scontent.fvix3-1.fna.fbcdn.net/v/t39.30808-6/313024389_5289972357777821_2723149189993986416_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xWHf3gBtm38AX8JJ4B8&tn=bbxNE3L-V3xOHZIw&_nc_ht=scontent.fvix3-1.fna&oh=00_AT8eQ-HxzdcbQnsVP0PW344QXLinzH2Hkiwo_Fv0ArKOpg&oe=635CF7FD">
-</div>
-
-<div align="center"> 
+  
+  <h1 align="center"><img height="30px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f40f.png"> Israel Carneiro de Oliveira</h1>
+  
   <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira-242171240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira-242171240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <link href="style.css" rel="stylesheet">
