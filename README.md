@@ -14,12 +14,14 @@
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira-242171240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<link href="style.css" rel="stylesheet">
 <div align="center">
   <a href="https://github.com/Israel-Carneiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240"/>
+  </a>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Israel-Carneiro&theme=dark&date_format=d_F[,Y]&border_radius=37&ring=4295f5&currStreakLabel=4295f5&sideLabels=4295f5)](https://git.io/streak-stats)
 
 ***
 
@@ -30,5 +32,5 @@
   Será que um dia as maquinas irão dominar o futuro?<br>
 
   Não é que eu precise saber das respostas pra essas coisas, mas são as perguntas que me movem.<br>
-  Espero que no caminho eu possa conhecer muita gente interessante, com mais perguntas do que respostas :)
+  Espero que no caminho eu possa conhecer muita gente interessante, com mais perguntas do que respostas :)</p>
 </div>
