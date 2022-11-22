@@ -13,7 +13,7 @@
   <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   
-  <a href="" target="_blank"></a>
+  <a href="https://docs.google.com/document/d/1Srpc-wxJ0G1yfVh8kUYxNFTdBHaQiMH6SSWjYGNzHLc/edit?usp=sharing" target="_blank"><b>Meu Currículo</b></a>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" rel="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" rel="CSS3" />
