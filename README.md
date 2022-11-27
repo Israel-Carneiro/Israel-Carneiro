@@ -1,12 +1,10 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31B1F1&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Obrigado+por+checar+meu+perfil!;Estudo+programação+desde+junho+de+2022;Focando+no+desenvolvimento+Front+End+:%29)
+
 <div align="center">
-  <h1 align="center">
-    Olá Mundo, obrigado por checar meu perfil!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h1>
 
   <img alt="Carneiro-pic" height="250" src="https://scontent.fvix3-1.fna.fbcdn.net/v/t39.30808-6/313431697_5313861198722270_3733103562333384239_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ypouhgtwcGkAX8S2Yyr&_nc_ht=scontent.fvix3-1.fna&oh=00_AfAXex1azzW_TY6yhEgZC64kK6u4BTrKTNkLWfT_KTdD7g&oe=637C9402">
   
-  <h1 align="center"><img height="30px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f40f.png"> Israel Carneiro de Oliveira</h1>
+  <h1 align="center"><img height="30px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f40f.png"> Israel Carneiro de Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
   <h2 align="center">Contatos</h2>
   
