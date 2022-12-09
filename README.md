@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" rel="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" rel="JavaScript" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" rel="Git" />
-  <p>Português: Nativo; English: Advanced; Deotsch: Basic.</p>
+  <p><b>Português:</b> Nativo;<br> <b>English:</b> Advanced;<br> <b>Deotsch:</b> Basic.</p>
 
   <h2 align="center">Github Status</h2>
 
