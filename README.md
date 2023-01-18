@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31B1F1&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Obrigado+por+checar+meu+perfil!;Estudo+programação+desde+junho+de+2022;Focando+no+desenvolvimento+Front+End+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31B1F1&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Obrigado+por+checar+meu+perfil!;Estudo+programação+desde+junho+de+2022;Focando+no+desenvolvimento+FrontEnd+:%29)
 
 <div align="center">
 
