@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img alt="Carneiro pic" height="250" src="https://scontent.fvix3-1.fna.fbcdn.net/v/t39.30808-6/313431697_5313861198722270_3733103562333384239_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XNuUjma3098AX-TYhDP&_nc_ht=scontent.fvix3-1.fna&oh=00_AfCppOxae1ltaduNIo4G0rToMgioKgmbsOmYfAqTiPvCmg&oe=63D78B82">
+  <img alt="Carneiro pic" height="250" src="./img/Logo Carneiro e Oliveiras PNG.png">
   
   <h1 align="center"><img height="30px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f40f.png"> Israel Carneiro de Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   
