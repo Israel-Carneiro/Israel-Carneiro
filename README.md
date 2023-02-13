@@ -28,15 +28,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240"/>
   </a>
 </div><br>
-
-***
-
-<div>
-  <p>De onde surgiu a internet?<br>
-  Por que precisamos de varias linguagens de programação?<br>
-  Quem veio primeiro, o Google ou o Wikipedia?<br>
-  Será que um dia as maquinas irão dominar o futuro?<br>
-
-  Não é que eu precise saber das respostas pra essas coisas, mas são as perguntas que me movem.<br>
-  Espero que no caminho eu possa conhecer muita gente interessante, com mais perguntas do que respostas :)</p>
-</div>
