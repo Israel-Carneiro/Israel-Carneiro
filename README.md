@@ -8,10 +8,10 @@
   
   <h2 align="center">Contatos</h2>
   
-  <a href="https://drive.google.com/file/d/14ALzyQHN07UXs2q-qyUy0HpfuRUQRfrt/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" /><a>
+  <a href="https://drive.google.com/file/d/14ALzyQHN07UXs2q-qyUy0HpfuRUQRfrt/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
+  <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a>
+  <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a>
+  <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /><a>
   
   <h2 align="center">Hard Skills</h2>
   
@@ -26,8 +26,8 @@
   <h2 align="center">Github Status</h2>
 
   <a href="https://github.com/Israel-Carneiro">
-    <//img src="https://streak-stats.demolab.com/?user=Israel-Carneiro&theme=dark&date_format=d_F[,Y]&border_radius=37&ring=4295f5&currStreakLabel=4295f5&sideLabels=4295f5"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240"/>
+    <//img src="https://streak-stats.demolab.com/?user=Israel-Carneiro&theme=dark&date_format=d_F[,Y]&border_radius=37&ring=4295f5&currStreakLabel=4295f5&sideLabels=4295f5" rel="Streak Statusbar" /><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400" rel="Github Statusbar" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240" rel="Most Used Languages" />
   </a>
 </div><br>
