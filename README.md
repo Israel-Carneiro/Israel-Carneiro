@@ -11,6 +11,7 @@
   <a href="https://drive.google.com/file/d/14ALzyQHN07UXs2q-qyUy0HpfuRUQRfrt/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+  <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" /><a>
   
   <h2 align="center">Hard Skills</h2>
   
