@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" rel="JavaScript" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" rel="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" rel="Github" />
+  <img src="https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white" rel="Visual Studio Code"
   <p><b>Português:</b> Nativo;<br> <b>English:</b> Advanced;<br> <b>Deutsch:</b> Basic.</p>
 
   <h2 align="center">Github Status</h2>
