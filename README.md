@@ -10,7 +10,8 @@
   
   <a href="https://drive.google.com/file/d/14ALzyQHN07UXs2q-qyUy0HpfuRUQRfrt/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a>
-  <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a> <br>
+  <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a>
+  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" rel="Gmail" /></a>-->
   <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /><a>
   <a href="https://codepen.io/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" rel="CodePen" /></a>
   <a href="https://www.figma.com/@israelcarneiro" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" rel="Figma" /></a>
