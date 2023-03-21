@@ -14,6 +14,7 @@
   <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /><a>
   <a href="https://codepen.io/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" rel="CodePen" /></a>
   <a href="https://www.figma.com/@israelcarneiro" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" rel="Figma" /></a>
+  <!--<a href="https://www.udemy.com/user/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" rel="Udemy" /></a>-->
   
   <h2 align="center">Hard Skills</h2>
   
