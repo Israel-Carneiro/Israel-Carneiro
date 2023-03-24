@@ -8,7 +8,7 @@
   
   <h2 align="center">Contatos</h2>
   
-  <a href="https://drive.google.com/file/d/14ALzyQHN07UXs2q-qyUy0HpfuRUQRfrt/view" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
+  <a href="https://drive.google.com/file/d/1756agGTJA1VytVfScyHTlr5ZmQ1vqc7J/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a>
   <a href="https://api.whatsapp.com/send/?phone=5527996332590&text=Olá+Israel%2C+tudo+bom%3F&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" rel="WhatsApp" /></a>
   <a href="mailto:raelc.oliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" rel="Gmail" /></a>
