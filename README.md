@@ -39,8 +39,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Carneiro&count_private=true&theme=github_dark&show_icons=true&border_radius=37&card_width=400" rel="Github Statusbar" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Carneiro&layout=compact&theme=github_dark&border_radius=27&card_width=240" rel="Most Used Languages" />
   </a><br>
-  <!--<div>
+  <div>
     <h3>Visitas</h3>
     <img alingn="center" src="https://profile-counter.glitch.me/Israel-Carneiro/count.svg" />
-  </div>-->
+  </div>
 </div>
