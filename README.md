@@ -8,7 +8,7 @@
   
   <h2 align="center">Contatos</h2>
   
-  <a href="https://drive.google.com/file/d/1756agGTJA1VytVfScyHTlr5ZmQ1vqc7J/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
+  <a href="https://drive.google.com/file/d/1h6gs3aqhR1j_SwDjJHNtiwG2HXpdKQzH/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge" rel="Currículo" /></a>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a>
   <a href="mailto:raelc.oliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" rel="Gmail" /></a>
   <!--<a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a>-->
